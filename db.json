@@ -1,0 +1,235 @@
+{
+  "burgers": [
+    {
+      "id": 0,
+      "name": "Beef burger",
+      "price": 210,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/b78c2772-ed92-4ccf-8892-945d7c048e8d.jpeg",
+      "type":"beef"
+    },
+    {
+      "id": 1,
+      "name": "Beef cheese burger",
+      "price": 235,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/4e8487f1-0652-4408-bc99-6320f74f0eb4.jpeg",
+      "type":"beef"
+    },
+    {
+      "id": 2,
+      "name": "Beef smoky BBQ burger",
+      "price": 260,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/490b84da-6d48-483f-a70e-9bb87e12e3a9.jpeg",
+      "type":"beef"
+    },
+    {
+      "id": 3,
+      "name": "Beef bacon burger",
+      "price": 270,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/ae1441d8-a4ca-4782-b314-5ab7eae69196.jpeg",
+      "type":"beef" 
+    },
+    {
+      "id": 4,
+      "name": "Beef sausage burger",
+      "price": 290,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/019ed491-517f-4774-b5ea-695be055d058.jpeg",
+      "type":"beef" 
+    },
+    {
+      "id": 5,
+      "name": "Beef double decker",
+      "price": 360,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/9dcf676e-5460-4c08-901b-4b944b237d53.jpeg",
+      "type":"beef" 
+    },
+    {
+      "id": 6,
+      "name": "Beef cheese blast",
+      "price": 385,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/f074647f-4f87-4a98-be91-93a908907778.jpeg",
+      "type":"beef" 
+    },
+    {
+      "id": 7,
+      "name": "Beef signature burger",
+      "price": 450,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/8a270e99-e5fc-4c39-8efd-752e32f0156c.jpeg",
+      "type":"beef" 
+    },
+    {
+      "id": 8,
+      "name": "Giganto beef burger",
+      "price": 520,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/868ddc87-58f7-42b9-b573-56b89d9a7939.jpeg",
+      "type":"beef" 
+    },
+    {
+      "id": 9,
+      "name": "Binge beef burger",
+      "price": 750,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/4bbbe2ab-ca77-4c64-a9dd-cdf4f77d50cd.jpeg",
+      "type":"beef" 
+    },
+    {
+      "id": 10,
+      "name": "Chicken burger",
+      "price": 210,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/69443034-e57a-4875-8c81-e7fb3859fd5b.jpeg",
+      "type":"chicken"
+    },
+    {
+      "id": 11,
+      "name": "Chicken cheese burger",
+      "price": 235,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/4aed8c9b-f634-49e9-af6b-beeb03044bf6.jpeg",
+      "type":"chicken"
+    },
+    {
+      "id": 12,
+      "name": "Chicken smoky BBQ burger",
+      "price": 260,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/b09375fc-5768-4b57-93b0-ac3cc6466430.jpeg",
+      "type":"chicken"
+    },
+    {
+      "id": 13,
+      "name": "Chicken bacon burger",
+      "price": 270,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/acc79508-7675-43bf-bcaa-061e8afb2d6d.jpeg",
+      "type":"chicken" 
+    },
+    {
+      "id": 14,
+      "name": "Chicken sausage burger",
+      "price": 290,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/25835f94-ec02-4348-aeec-a2f53fb774d6.jpeg",
+      "type":"chicken" 
+    },
+    {
+      "id": 15,
+      "name": "Chicken double decker",
+      "price": 360,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/b8a78d98-4bb8-42e6-835f-5ce742147cc1.jpeg",
+      "type":"chicken" 
+    },
+    {
+      "id": 16,
+      "name": "Chicken cheese blast",
+      "price": 385,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/878dad3a-cc4e-4c71-b07e-4f556d8a537b.jpeg",
+      "type":"chicken" 
+    },
+    {
+      "id": 17,
+      "name": "Chicken signature burger",
+      "price": 450,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/1612e992-5a80-4e7f-8d19-78a180862335.jpeg",
+      "type":"chicken" 
+    },
+    {
+      "id": 18,
+      "name": "Giganto chiken burger",
+      "price": 520,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/46719451-911d-43d5-8d2e-e1df2da25ae5.jpeg",
+      "type":"chicken" 
+    },
+    {
+      "id": 19,
+      "name": "Binge chicken burger",
+      "price": 750,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/92ff45b6-3beb-46a9-944a-c9ad1e2d96df.jpeg",
+      "type":"chicken" 
+    },
+    {
+      "id": 20,
+      "name": "Naga Drums",
+      "price": 100,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/63a00182-b387-4342-b3e9-3d21a8d7d7e8.jpeg",
+      "type":"Snacks" 
+    },
+    {
+      "id": 21,
+      "name": "chicken fingers",
+      "price": 175,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/a9b803fc-9ec4-46e4-86e8-7efc6ed66b4e.jpeg",
+      "type":"Snacks" 
+    },
+    {
+      "id": 22,
+      "name": "Pankha Wings",
+      "price": 240,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/9a357a41-1c98-470d-b7fd-2a506c366993.jpeg",
+      "type":"Snacks" 
+    },
+    {
+      "id": 23,
+      "name": "French Fries",
+      "price": 95,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/5cf7de9c-7214-462c-bedc-691b4822d807.jpeg",
+      "type":"Snacks" 
+    },
+    {
+      "id": 24,
+      "name": "Fish n'krips",
+      "price": 320,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/65aa61f7-1ff1-4585-925d-bb52d2f176c4.jpeg",
+      "type":"fish"
+    },
+    {
+      "id": 25,
+      "name": "Fish tots",
+      "price": 195,
+      "img": "https://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-6/239570470_4359608287467384_5735918672331716781_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=3635dc&_nc_ohc=qf1FICnurHgAX-Xmh2w&_nc_oc=AQmC8cmEqzhbjJC0GJIrCibhBWIwmHfk2AJKRPWH8d5Qi8vw4aS3KhL7OpDPZyFxukM&_nc_ht=scontent.fcgp13-1.fna&oh=00_AfDU6nr72g9tp1q--27o6vbq3sJq8Six6z6-rRThfKeBww&oe=658B4642",
+      "type":"fish"
+    },
+    {
+      "id": 26,
+      "name": "Tira-miss-u",
+      "price": 200,
+      "img": "https://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-6/381102715_6697606500334206_5670984303218620292_n.png?_nc_cat=100&ccb=1-7&_nc_sid=3635dc&_nc_ohc=99bnipUR7SAAX9J3omd&_nc_ht=scontent.fcgp13-1.fna&oh=00_AfDXsUWzTOJWJb3dCtmQBJzm3bfoE2UytufG8hqEZGjxDQ&oe=658A3C56",
+      "type":"desserts"
+    },
+    {
+      "id": 27,
+      "name": "Choco fudge",
+      "price": 210,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/cbcca617-6cc0-402c-a2d3-231da25b2f5c.jpeg",
+      "type":"desserts"
+    },
+    {
+      "id": 28,
+      "name": "Oreo & cheese",
+      "price": 200,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/638b27ef-b7e2-4891-abb0-85b2a9f3b41f.jpeg",
+      "type":"desserts"
+    },
+    {
+      "id": 29,
+      "name": "Red velvet",
+      "price": 210,
+      "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/73857799-0903-44b7-8de6-2a1a76ef643c.jpeg",
+      "type":"desserts"
+    },
+    {
+      "id": 30,
+      "name": "coffee",
+      "price": 160,
+      "img": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "type":"drinks"
+    },
+    {
+      "id": 31,
+      "name": "Mojo",
+      "price": 65,
+      "img": "https://chaldn.com/_mpimage/mojo-soft-drink-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130804&q=best&v=1&m=400&webp=1",
+      "type":"drinks"
+    },
+    {
+      "id": 32,
+      "name": "Water",
+      "price": 210,
+      "img": "https://chaldn.com/_mpimage/muskan-drinking-water-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130991&q=best&v=1&m=400&webp=1",
+      "type":"drinks"
+    }
+
+  ]}
