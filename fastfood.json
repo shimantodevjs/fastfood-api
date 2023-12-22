@@ -184,52 +184,101 @@
     },
     {
       "id": 26,
+      "name": "Shrimps n'Chips",
+      "price": 395,
+      "img": "https://images.unsplash.com/photo-1553557202-e8e60357f061?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "type":"fish"
+    },
+    {
+      "id": 27,
       "name": "Tira-miss-u",
       "price": 200,
       "img": "https://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-6/381102715_6697606500334206_5670984303218620292_n.png?_nc_cat=100&ccb=1-7&_nc_sid=3635dc&_nc_ohc=99bnipUR7SAAX9J3omd&_nc_ht=scontent.fcgp13-1.fna&oh=00_AfDXsUWzTOJWJb3dCtmQBJzm3bfoE2UytufG8hqEZGjxDQ&oe=658A3C56",
       "type":"desserts"
     },
     {
-      "id": 27,
+      "id": 28,
       "name": "Choco fudge",
       "price": 210,
       "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/cbcca617-6cc0-402c-a2d3-231da25b2f5c.jpeg",
       "type":"desserts"
     },
     {
-      "id": 28,
+      "id": 29,
       "name": "Oreo & cheese",
       "price": 200,
       "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/638b27ef-b7e2-4891-abb0-85b2a9f3b41f.jpeg",
       "type":"desserts"
     },
     {
-      "id": 29,
+      "id": 30,
       "name": "Red velvet",
       "price": 210,
       "img": "https://d258m6aalgmo9e.cloudfront.net/fit-in/400x300/73857799-0903-44b7-8de6-2a1a76ef643c.jpeg",
       "type":"desserts"
     },
     {
-      "id": 30,
+      "id": 31,
+      "name": "Blueberry cheese dip",
+      "price": 210,
+      "img": "https://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-6/381346882_6697607067000816_1594231581448466643_n.png?_nc_cat=105&ccb=1-7&_nc_sid=3635dc&_nc_aid=0&_nc_ohc=pcwGbUF-01YAX8st970&_nc_ht=scontent.fcgp13-1.fna&oh=00_AfCvZUwi2iXDbxO4lat1t3E3qAYh6n-r30i1qXawDOrEBg&oe=6589E4F6",
+      "type":"desserts"
+    },
+    {
+      "id": 32,
       "name": "Coffee",
-      "price": 160,
+      "price": 140,
       "img": "https://img.freepik.com/free-photo/delicious-top-view-coffee-with-cream_23-2148255016.jpg?w=740&t=st=1703261399~exp=1703261999~hmac=cc413cd6c21198c28df67e373d253c3f7c221f5806521af5fd474fda8d85c847",
       "type":"drinks"
     },
     {
-      "id": 31,
+      "id": 33,
       "name": "Mojo",
       "price": 65,
       "img": "https://chaldn.com/_mpimage/mojo-soft-drink-2-ltr?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130804&q=best&v=1&m=400&webp=1",
       "type":"drinks"
     },
     {
-      "id": 32,
+      "id": 34,
       "name": "Water",
       "price": 20,
       "img": "https://chaldn.com/_mpimage/muskan-drinking-water-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130991&q=best&v=1&m=400&webp=1",
       "type":"drinks"
+    },
+    {
+      "id": 35,
+      "name": "Cold coffee",
+      "price": 160,
+      "img": "https://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-6/348918108_785414233188787_6206480365663400223_n.png?_nc_cat=105&ccb=1-7&_nc_sid=3635dc&_nc_ohc=acca_HoencoAX_YfjUh&_nc_ht=scontent.fcgp13-1.fna&oh=00_AfCitYPdoLRqJ0DAogpy4vqYS24BhZ0qRauKufsWlYCF8A&oe=658B457D",
+      "type":"drinks"
+    },
+    {
+      "id": 36,
+      "name": "Snickers",
+      "price": 200,
+      "img": "https://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-6/348901701_5936024153187282_7953777889459583037_n.png?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=aRadM8_YA-YAX_nlwXU&_nc_ht=scontent.fcgp13-1.fna&oh=00_AfB618mY-Jw2rEMZ94JOlWyaG_YaD53ndY2iehN4b7ig-g&oe=6589FDFE",
+      "type":"drinks"
+    },
+    {
+      "id": 37,
+      "name": "Munch",
+      "price": 160,
+      "img": "https://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-6/348947291_1602564263564601_8392524476704652510_n.png?_nc_cat=106&ccb=1-7&_nc_sid=3635dc&_nc_ohc=mRl13mb5ASEAX8UnVae&_nc_ht=scontent.fcgp13-1.fna&oh=00_AfAXdtfLNIrPJE8DQmrJRk6YzZSGPW5p62Mck3QrGhJb0g&oe=658BA7C1",
+      "type":"drinks"
+    },
+    {
+      "id": 38,
+      "name": "nutella",
+      "price": 200,
+      "img": "https://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-6/348873554_144105281985807_5541901508470485350_n.png?_nc_cat=107&ccb=1-7&_nc_sid=3635dc&_nc_ohc=n6eKoX9AlBUAX_tOZWt&_nc_ht=scontent.fcgp13-1.fna&oh=00_AfD9noRxvxbkLjaugSWw5pWDo2DUsCXizQQ6p0M-njGQAA&oe=658AC563",
+      "type":"drinks"
+    },
+    {
+      "id": 39,
+      "name": "Fried fish",
+      "price": 200,
+      "img": "https://images.unsplash.com/photo-1583815950467-e7b26a5b56b3?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "type":"fish"
     }
 
   ]}
