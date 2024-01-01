@@ -247,9 +247,9 @@
     },
     {
       "id": 35,
-      "name": "Cold coffee",
-      "price": 160,
-      "img": "https://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-6/348918108_785414233188787_6206480365663400223_n.png?_nc_cat=105&ccb=1-7&_nc_sid=3635dc&_nc_ohc=acca_HoencoAX_YfjUh&_nc_ht=scontent.fcgp13-1.fna&oh=00_AfCitYPdoLRqJ0DAogpy4vqYS24BhZ0qRauKufsWlYCF8A&oe=658B457D",
+      "name": "Mountain Dew",
+      "price": 50,
+      "img": "https://images.othoba.com/images/thumbs/0512981_mountain-dew-600ml.webp",
       "type":"drinks"
     },
     {
