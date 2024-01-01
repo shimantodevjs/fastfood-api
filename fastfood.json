@@ -247,30 +247,23 @@
     },
     {
       "id": 35,
-      "name": "Mountain Dew",
+      "name": "Mountain dew",
       "price": 50,
       "img": "https://images.othoba.com/images/thumbs/0512981_mountain-dew-600ml.webp",
       "type":"drinks"
     },
     {
       "id": 36,
-      "name": "Snickers",
-      "price": 200,
-      "img": "https://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-6/348901701_5936024153187282_7953777889459583037_n.png?_nc_cat=103&ccb=1-7&_nc_sid=3635dc&_nc_ohc=aRadM8_YA-YAX_nlwXU&_nc_ht=scontent.fcgp13-1.fna&oh=00_AfB618mY-Jw2rEMZ94JOlWyaG_YaD53ndY2iehN4b7ig-g&oe=6589FDFE",
+      "name": "Cold Coffee",
+      "price": 160,
+      "img": "https://images.unsplash.com/photo-1571328003758-4a3921661729?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "type":"drinks"
     },
     {
       "id": 37,
-      "name": "Munch",
+      "name": "Milk Shake",
       "price": 160,
-      "img": "https://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-6/348947291_1602564263564601_8392524476704652510_n.png?_nc_cat=106&ccb=1-7&_nc_sid=3635dc&_nc_ohc=mRl13mb5ASEAX8UnVae&_nc_ht=scontent.fcgp13-1.fna&oh=00_AfAXdtfLNIrPJE8DQmrJRk6YzZSGPW5p62Mck3QrGhJb0g&oe=658BA7C1",
-      "type":"drinks"
-    },
-    {
-      "id": 38,
-      "name": "nutella",
-      "price": 200,
-      "img": "https://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-6/348873554_144105281985807_5541901508470485350_n.png?_nc_cat=107&ccb=1-7&_nc_sid=3635dc&_nc_ohc=n6eKoX9AlBUAX_tOZWt&_nc_ht=scontent.fcgp13-1.fna&oh=00_AfD9noRxvxbkLjaugSWw5pWDo2DUsCXizQQ6p0M-njGQAA&oe=658AC563",
+      "img": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "type":"drinks"
     },
     {
